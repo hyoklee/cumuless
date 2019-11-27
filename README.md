@@ -1,9 +1,13 @@
 # CUMULESS
 
-This is a pilot project that deploys CUMULUS functionalities using Serverless Framework.
+This is a pilot project that deploys CUMULUS functionalities using Serverless
+Framework.
 
-## Ingest
+## Deploy
 
-## Transform
+cumuless deploy
 
-## Archive
+## Remove the Service
+
+cumuless remove
+
