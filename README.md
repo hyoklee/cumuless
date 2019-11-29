@@ -5,9 +5,10 @@ Framework.
 
 ## Deploy
 
-cumuless deploy
+```cumuless deploy```
 
 ## Remove the Service
 
-cumuless remove
+```cumuless remove```
+
 
