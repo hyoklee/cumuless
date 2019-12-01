@@ -1,7 +1,7 @@
 # CUMULESS
 
-This is a pilot project that deploys CUMULUS functionalities using Serverless
-Framework.
+This is a pilot project that deploys CUMULUS functionalities using [Serverless
+Framework](https://serverless.com).
 
 ## Deploy
 
